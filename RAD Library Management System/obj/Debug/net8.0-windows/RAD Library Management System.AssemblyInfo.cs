@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RAD Library Management System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bed54686ceddba95312027a6f1bbe77fd78416f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("RAD Library Management System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RAD Library Management System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
