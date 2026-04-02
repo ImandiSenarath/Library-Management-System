@@ -1,0 +1,32 @@
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD Library Management System.csproj.AssemblyReference.cache
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD_Library_Management_System.Frmhome.resources
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD_Library_Management_System.Login.resources
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD_Library_Management_System.Properties.Resources.resources
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD Library Management System.csproj.GenerateResource.cache
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD Library Management System.AssemblyInfoInputs.cache
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD Library Management System.AssemblyInfo.cs
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD Library Management System.csproj.CoreCompileInputs.cache
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\RAD Library Management System.exe
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\RAD Library Management System.deps.json
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\RAD Library Management System.runtimeconfig.json
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\RAD Library Management System.dll
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\RAD Library Management System.pdb
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\RAD Library Management System\RAD Library Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD Libr.39F6CFF4.Up2Date
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD Library Management System.dll
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\refint\RAD Library Management System.dll
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD Library Management System.pdb
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD Library Management System.genruntimeconfig.cache
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\ref\RAD Library Management System.dll
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD_Library_Management_System.New_book.resources
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD_Library_Management_System.FrmIssueReturn.resources
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD_Library_Management_System.Form1.resources
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD_Library_Management_System.FormBooK.resources
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD_Library_Management_System.FormMemebership.resources
+D:\RAD Library Management System\RAD Library Management System\obj\Debug\net8.0-windows\RAD_Library_Management_System.IssueReturnBook.resources
